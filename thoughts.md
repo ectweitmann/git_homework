@@ -5,3 +5,5 @@ Two takeaways so far from my time in Mod 0:
 Two new strategies I am committed to trying during the rest of Mod 0:
 1. Color coding my notes!
 2. Typing EVERY line of code.
+
+Shoutout to @Emaly who has been my biggest cheerleader over the last two weeks!!
