@@ -7,5 +7,3 @@ Two new strategies I am committed to trying during the rest of Mod 0:
 2. Typing EVERY line of code.
 
 Shoutout to @Emaly who has been my biggest cheerleader over the last two weeks!!
-
-This is a thought that I am writing to test pushing commits to GitHub.
